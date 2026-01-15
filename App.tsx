@@ -8,7 +8,7 @@ import { VisitorData, DashboardStats, InsightReport } from './types';
 import { SHEET_CSV_URL, DUMMY_DATA } from './constants';
 import { StatCard } from './components/StatCard';
 import { VisitorCharts } from './components/VisitorCharts';
-//import { SmartInsights } from './components/SmartInsights';
+import { SmartInsights } from './components/SmartInsights';
 import { getSmartInsights } from './services/geminiService';
 
 const App: React.FC = () => {
