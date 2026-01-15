@@ -164,7 +164,7 @@ const App: React.FC = () => {
           <StatCard title="Total Rombongan" value={stats.rombongan} icon={<Building2 size={24} />} color="bg-amber-500" />
         </section>
 
-        <SmartInsights insights={insights} loading={insightsLoading} />
+        
 
         <VisitorCharts data={rawData} stats={stats} />
 
