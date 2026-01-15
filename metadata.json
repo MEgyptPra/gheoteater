@@ -1,0 +1,5 @@
+{
+  "name": "Geotheater Analytics Pro",
+  "description": "A high-performance dashboard for Geotheater visitor analytics featuring real-time data sync with Google Sheets and AI-powered smart insights using Gemini.",
+  "requestFramePermissions": []
+}
